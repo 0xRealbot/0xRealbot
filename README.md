@@ -78,7 +78,7 @@ int main() {
 
 ---
 
-## `> my_github_activity`
+
 
 <div align="center">
 
@@ -92,7 +92,7 @@ int main() {
 
 <div align="center">
 
-### `> SYSTEM MESSAGE`
+
 
 **Still learning. Still building. Never stopping.** 💚
 
